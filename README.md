@@ -34,7 +34,7 @@
             <li><a href="https://twitter.com/Flamengo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Twitter/X
                     Oficial</a></li>
         </ul>
-    </nav>aa
+    </nav>
     </ul>
 
     <footer>Desenvolvido por @lotusoull</footer>

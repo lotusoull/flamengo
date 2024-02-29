@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flamengo</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -14,7 +15,7 @@
     <section>
         <p>Libertadores</p>
 
-        <img src="mengoo.jpg" alt="flamengo comemorando título">
+        <img src="mengudo.jpg" alt="flamengo comemorando título">
         <img src="https://www.gaveanews.com/wp-content/uploads/Maracanao-escudo-Flamengo.jpg"
             alt="flamengo comemorando mais um título">
     </section>

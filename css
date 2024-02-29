@@ -1,6 +1,31 @@
-body{
-    background-color: lightgrey ;
+body {
+    background-color: lightgrey;
     color: darkred;
+    margin: 20px;
     font-family: 'Times New Roman', Times, serif;
-    margin: 15px;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(150, 78, 78);
+    color: cyan;
+    padding: 5px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: chartreuse;
+    padding: 5px;
+}
+
+nav a {
+    color: pink;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: greenyellow;
+    text-decoration: underline;
+    cursor: crosshair;
 }

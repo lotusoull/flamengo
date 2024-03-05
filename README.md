@@ -12,6 +12,11 @@
     <header>
         <h1>Flamengo</h1>
     </header>
+    <nav>
+        <a href="">início</a>
+        <a href="">sobre</a>
+        <a href="contato.html">contato</a>
+    </nav>
     <section>
         <p>Libertadores</p>
 

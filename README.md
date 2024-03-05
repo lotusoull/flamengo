@@ -15,8 +15,8 @@
     <section>
         <p>Libertadores</p>
 
-        <img src="mengudo.jpg" alt="">
-        <img src="https://www.gaveanews.com/wp-content/uploads/Maracanao-escudo-Flamengo.jpg"
+        <img src="https://i.pinimg.com/736x/16/10/79/16107933f811ae69d9fc3db2344daaf6.jpg" alt="">
+        <img src= "https://a.espncdn.com/photo/2024/0301/r1298518_1280x512_5-2.jpg"
             alt="flamengo comemorando mais um título">
     </section>
     <section>

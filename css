@@ -1,31 +1,44 @@
 body {
     background-color: lightgrey;
     color: darkred;
-    margin: 20px;
+    margin: 0;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
 header {
-    background-color: rgb(150, 78, 78);
-    color: cyan;
+    background-color: darkred;
+    color: white;
     padding: 5px;
 }
 
 nav {
     display: flex;
     justify-content: center;
-    background-color: chartreuse;
+    background-color: darkred;
     padding: 5px;
 }
 
 nav a {
-    color: pink;
+    color: white;
     text-decoration: none;
 }
 
 nav a:hover {
-    color: greenyellow;
+    color: darkred;
     text-decoration: underline;
     cursor: crosshair;
+}
+
+section {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: red;
+    color: white;
+    position: fixed;
+    padding: 5px;
+    bottom: 0;
+    width: 100%;
 }
